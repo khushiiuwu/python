@@ -1,3 +1,3 @@
 # python
 
-This repository contains few basic programs I practiced intially! :)
+This repository contains a few basic programs I practiced initially! :)
